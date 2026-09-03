@@ -1,0 +1,8 @@
+{
+  "name": "Matemáticas Rápidas",
+  "description": "Calculadora escolar con pizarra verde y desglose pedagógico paso a paso de sumas y restas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
